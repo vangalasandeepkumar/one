@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.144.129.148:8081/repository/sandeep-releases</url>
+		    <url>http://35.153.57.224:8081/repository/facebook-releases</url>
 		</repository>
   	</distributionManagement>
 	
